@@ -103,6 +103,7 @@ Cloudlet 3 executed in Datacenter 3 using VM 1
 
 ## Result
 Cloudlets from different users were successfully executed across two datacenters. The simulation demonstrates distributed task execution and broker-based scheduling.
+![WhatsApp Image 2026-02-20 at 10 16 11 AM](https://github.com/user-attachments/assets/2413f695-19f4-4dc0-8735-99955f82cf63)
 
 ---
 
